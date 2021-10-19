@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\Lab_5.1\UnitTest1\UnitTest1.cpp(16,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Lab_5.1\UnitTest1\UnitTest1.cpp(20,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\Lab_5.1\Debug\UnitTest1.dll
